@@ -16,7 +16,10 @@
 ---
 **Cleopatra** has been carefully coded with clear comments in all of its JS, SASS and HTML files. SASS has been used to increase code customizability.
 
+## Free Templates List
 
+https://dev.to/mariann93502220/30-free-tailwind-css-templates-to-kick-start-your-next-project-3igo
+https://tailwindtemplates.co/
 
 ## Installation
 
